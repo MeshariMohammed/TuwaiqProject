@@ -1,6 +1,6 @@
 ### Exercise App
-- [ ] BackEnd
+- [x] BackEnd
   - [x] CRUD User
   - [x] CRUD Exercise
-  - [ ] CRUD Plan
-- [ ]  finished
+  - [x] CRUD Plan
+- [x]  finished
